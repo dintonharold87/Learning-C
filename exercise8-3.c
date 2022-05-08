@@ -2,7 +2,7 @@
 int main(){
     
     for(int input=' '; input!='q'?1:0; ){
-        getchar();
+        input = getchar();
     }
     printf("You have entered 'q' character");
     return 0;
