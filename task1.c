@@ -10,7 +10,7 @@ int main(){
     if((num1<=num2)&&(num2<=num3)){
         minimumNumber = num1; 
         middleNumber  = num2; 
-        maximumNumber = num1;
+        maximumNumber = num3;
          
 
     }
@@ -39,7 +39,7 @@ int main(){
         maximumNumber = num2; 
 
     }
-    else if((num3<=num2)&&(num2<=num1)){
+    else {
         minimumNumber = num3; 
         middleNumber  = num2; 
         maximumNumber = num1; 

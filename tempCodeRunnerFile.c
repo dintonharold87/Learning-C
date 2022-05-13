@@ -1,1 +1,1 @@
-printf("You have entered,%c. Enter K to terminate\n",enteredInput);
+Enter the number  you would like to add:
